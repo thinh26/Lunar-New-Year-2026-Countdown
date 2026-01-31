@@ -11,7 +11,9 @@ i18n
   .init({
     supportedLngs: ["en", "vi"],
     detection: {
-      lookupLocalStorage: "language",
+      // lookupLocalStorage: "language",
+      order: ["DomainDetector"],
+      caches: [],
     },
     resources: {
       en: {

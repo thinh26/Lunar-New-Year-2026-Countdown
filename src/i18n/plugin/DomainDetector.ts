@@ -4,8 +4,8 @@ const DomainDetector: LanguageDetectorModule = {
   type: "languageDetector",
   init: () => {},
   detect: () => {
-    if (typeof globalThis !== "undefined") {
-      return;
+    if (typeof globalThis === "undefined" || !("location" in globalThis)) {
+      return undefined;
     }
 
     const hostname = globalThis.location.hostname.toLowerCase();
