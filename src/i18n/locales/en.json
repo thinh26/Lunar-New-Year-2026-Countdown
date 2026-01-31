@@ -1,0 +1,44 @@
+{
+  "app": {
+    "title": "Lunar New Year 2026 Countdown",
+    "finalMessage": "🎉 Happy Lunar New Year! 🎊",
+    "countdownTo": "© 2026 Nguyen Duc Thinh - All Rights Reserved."
+  },
+  "countdown": {
+    "days": "days",
+    "hours": "hours",
+    "minutes": "minutes",
+    "seconds": "seconds"
+  },
+  "zodiac": {
+    "title": "Year of the Fire Horse",
+    "description": "The Fire Horse brings passion, energy, and transformation. Those born in this year are known for their independence, confidence, and adventurous spirit."
+  },
+  "fortune": {
+    "title": "🧧 Fortune Message 🧧",
+    "messages": [
+      "May prosperity and good fortune follow you throughout the year",
+      "Wishing you happiness, wealth, and longevity",
+      "May all your dreams come true in the Year of the Fire Horse",
+      "Bringing joy and harmony to your family",
+      "May success gallop into your life like a spirited horse",
+      "Wishing you health, happiness, and abundant blessings",
+      "May the new year bring endless opportunities",
+      "Prosperity and good luck in all your endeavors"
+    ]
+  },
+  "blessing": {
+    "title": "Light a Virtual Incense",
+    "subtitle": "Make a wish for the Lunar New Year and share your blessings with the world",
+    "nameLabel": "Your Name (Optional)",
+    "namePlaceholder": "Anonymous",
+    "messageLabel": "Your Blessing or Wish",
+    "messagePlaceholder": "May this year bring you joy and prosperity...",
+    "submitButton": "🙏 Submit Blessing",
+    "submittingButton": "Submitting...",
+    "recentBlessings": "Recent Blessings",
+    "successMessage": "Your blessing has been received!",
+    "errorMessage": "Failed to submit blessing. Please try again.",
+    "validationError": "Please enter a blessing message"
+  }
+}

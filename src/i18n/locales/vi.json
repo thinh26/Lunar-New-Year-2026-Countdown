@@ -1,0 +1,44 @@
+{
+  "app": {
+    "title": "Đếm Ngược Tết Nguyên Đán 2026",
+    "finalMessage": "🎉 Chúc Mừng Năm Mới! 🎊",
+    "countdownTo": "© 2026 Nguyễn Đức Thịnh - Mọi quyền đều được bảo vệ."
+  },
+  "countdown": {
+    "days": "ngày",
+    "hours": "giờ",
+    "minutes": "phút",
+    "seconds": "giây"
+  },
+  "zodiac": {
+    "title": "Năm Bính Ngọ",
+    "description": "Ngọ mang đến đam mê, năng lượng và sự thay đổi. Những người sinh trong năm này được biết đến với sự độc lập, tự tin và tinh thần phiêu lưu."
+  },
+  "fortune": {
+    "title": "🧧 Lời Chúc May Mắn 🧧",
+    "messages": [
+      "Cầu mong thịnh vượng và may mắn theo bạn suốt cả năm",
+      "Chúc bạn hạnh phúc, giàu sang và trường thọ",
+      "Cầu mong tất cả ước mơ của bạn thành hiện thực trong Năm Ngọ",
+      "Mang niềm vui và hài hòa đến gia đình bạn",
+      "Cầu mong thành công phi nước đại như con ngựa hăng",
+      "Chúc bạn sức khỏe, hạnh phúc và phước lành dồi dào",
+      "Cầu mong năm mới mang đến vô số cơ hội",
+      "Thịnh vượng và may mắn trong mọi nỗ lực của bạn"
+    ]
+  },
+  "blessing": {
+    "title": "Thắp Nhang Ảo",
+    "subtitle": "Ước một điều cho Tết Nguyên Đán và chia sẻ lời chúc phước của bạn với thế giới",
+    "nameLabel": "Tên Của Bạn (Tùy Chọn)",
+    "namePlaceholder": "Ẩn Danh",
+    "messageLabel": "Lời Chúc Phước Hoặc Ước Nguyện",
+    "messagePlaceholder": "Cầu mong năm nay mang đến cho bạn niềm vui và thịnh vượng...",
+    "submitButton": "🙏 Gửi Lời Chúc",
+    "submittingButton": "Đang Gửi...",
+    "recentBlessings": "Lời Chúc Gần Đây",
+    "successMessage": "Lời chúc của bạn đã được ghi nhận!",
+    "errorMessage": "Không thể gửi lời chúc. Vui lòng thử lại.",
+    "validationError": "Vui lòng nhập lời chúc phước"
+  }
+}
