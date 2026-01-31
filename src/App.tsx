@@ -9,7 +9,6 @@ import Fireworks from './components/Fireworks';
 import FireHorseZodiac from './components/FireHorseZodiac';
 import FortuneMessages from './components/FortuneMessages';
 import BlessingFeature from './components/BlessingFeature';
-import LanguageSwitcher from './components/LanguageSwitcher';
 import './styles/App.scss';
 
 function App() {
@@ -28,7 +27,7 @@ function App() {
       <CssBaseline />
       <Box className="app-container">
         <Fireworks isFinale={showFinale} />
-        <LanguageSwitcher />
+        {/* <LanguageSwitcher /> */}
 
         <Container maxWidth="xl" sx={{ position: 'relative', zIndex: 10 }}>
           <Box sx={{ py: 4 }}>
